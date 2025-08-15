@@ -1,0 +1,10 @@
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.csproj.AssemblyReference.cache
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.AssemblyInfoInputs.cache
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.AssemblyInfo.cs
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.csproj.CoreCompileInputs.cache
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.dll
+D:\learning-visual\ImageGenerationAPI\ImageGenerationAPI\obj\Debug\net8.0\ImageGenerationAPI.pdb

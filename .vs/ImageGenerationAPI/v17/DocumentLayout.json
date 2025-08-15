@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learning-visual\\ImageGenerationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\controllers\\callbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\controllers\\callbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\hubs\\statushub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\hubs\\statushub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\interfaces\\iimageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\interfaces\\iimageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|d:\\learning-visual\\imagegenerationapi\\imagegenerationapi\\config\\pythonworkeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F304FDC-975C-48A3-A98E-5067995EB7F0}|ImageGenerationAPI\\ImageGenerationAPI.csproj|solutionrelative:imagegenerationapi\\config\\pythonworkeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusHub.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Hubs\\StatusHub.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Hubs\\StatusHub.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Hubs\\StatusHub.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Hubs\\StatusHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:56:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImageProcessingService.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Interfaces\\IImageProcessingService.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Interfaces\\IImageProcessingService.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Interfaces\\IImageProcessingService.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Interfaces\\IImageProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:42:12.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallbackController.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Controllers\\CallbackController.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Controllers\\CallbackController.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Controllers\\CallbackController.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Controllers\\CallbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:39:13.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Program.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Program.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:43:13.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\appsettings.json",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\appsettings.json",
+              "RelativeToolTip": "ImageGenerationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T15:42:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PythonWorkerOptions.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Config\\PythonWorkerOptions.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Config\\PythonWorkerOptions.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Config\\PythonWorkerOptions.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Config\\PythonWorkerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:42:42.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageProcessingService.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Services\\ImageProcessingService.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Services\\ImageProcessingService.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Services\\ImageProcessingService.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Services\\ImageProcessingService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:15:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "ImageGenerationAPI\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\learning-visual\\ImageGenerationAPI\\ImageGenerationAPI\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "ImageGenerationAPI\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:41:44.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
